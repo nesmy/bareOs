@@ -1,0 +1,3 @@
+
+CFLAGS?=-02 -g
+LSFLAGS?=
